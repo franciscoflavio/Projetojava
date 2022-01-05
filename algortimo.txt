@@ -1,5 +1,5 @@
 
-projeto php cadastro de usuario criar base de dados com mysql para atendimento medico
+projeto php cadastro de usuario criar base de dados com mysql para atendimento 
 
 o proprio usuario vai criar seu cadastro atreves da tela de login 
 apos realizado o cadastro o usuario podera realizar alteraçoes e exclusoes
