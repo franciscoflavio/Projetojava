@@ -1,0 +1,36 @@
+
+projeto php cadastro de usuario criar base de dados com mysql para atendimento medico
+
+o proprio usuario vai criar seu cadastro atreves da tela de login 
+apos realizado o cadastro o usuario podera realizar alteraçoes e exclusoes
+dados e visualizar os dados cadastrados e alterados de forma impressa na tela
+
+algoritmo do programa:
+
+1 usuario clica na opção criar cadastro na tela de ligin //criar pag de login 
+2 usuario envia os dados atraves do formulario na pagina de cadastro // criar pagina de cadastro
+3 dados recolhidos são enviados ao banco para eventual consulta e alteração
+4 se todos os dados estiverem ok o resultado sera enviado ao usuario 
+6 o usuario visualiza os dados e finaliza o cadastro 
+7 usuario cria dados de acesso (usuario e senha de login)
+8 usuario acessa seus dados utilizando os dados de acesso
+9 usuario agora pode visualizar, alterar e deletas seus dados
+
+
+
+cadastro dados:
+
+id
+nome
+sexo
+nascimento
+estado civil
+cep
+endereço
+telefone
+cpf
+rg
+
+
+
+
